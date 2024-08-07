@@ -1,6 +1,7 @@
 #include <stdio.h>
 int main()
 {
+        printf("Preet AJU/220501 \n");
     int i,n,min,max;
 
     printf("Enter no of elements: ");
