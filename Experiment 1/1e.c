@@ -7,6 +7,7 @@ void multiplyMatrices(int r1, int c1, int mat1[r1][c1],
 void printMatrix(int r, int c, int matrix[r][c]);
 
 int main() {
+    printf("Preet AJU/220501 \n");
     int r1, c1, r2, c2;
 
     printf("Enter rows and columns for the first matrix: ");
@@ -68,3 +69,4 @@ void printMatrix(int r, int c, int matrix[r][c]) {
         printf("\n");
     }
 }
+    
