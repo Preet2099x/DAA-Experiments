@@ -38,10 +38,12 @@ void printArray(int arr[], int size)
 }
 
 int main() {
+    printf("Preet AJU/220501 \n");
     int n;
     printf("Enter the size of the array: ");
     scanf("%d", &n);
     int arr[n];
+    printf("Enter elements: ");
     for(int i=0; i<n; i++) {
         scanf("%d", &arr[i]);
     }
