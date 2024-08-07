@@ -17,6 +17,7 @@ void decimaltobinary(int decimal) {
 }
 
 int main() {
+    printf("Preet AJU/220501 \n");
     int decimal;
     printf("Enter a number: ");
     scanf("%d", &decimal);
