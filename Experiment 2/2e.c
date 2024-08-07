@@ -10,9 +10,11 @@ int sumofdigits(int n)
 
 int main()
 {
+    printf("Preet AJU/220501 \n");
     int n;
     printf("Enter a number: ");
     scanf("%d", &n);
     printf("Sum of digits of %d = %d\n", n, sumofdigits(n));
     return 0;
 }
+
