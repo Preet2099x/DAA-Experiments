@@ -10,11 +10,12 @@ int linearSearch(int arr[], int n, int target) {
 }
 
 int main() {
+    printf("Preet AJU/220501 \n");
     int n;
     printf("Enter the number of elements: ");
     scanf("%d", &n);
     int arr[n];
-    printf("Enter the elements of the array: \n");
+    printf("Enter the elements of the array: ");
     for (int i = 0; i < n; i++) {
         scanf("%d", &arr[i]);
     }
