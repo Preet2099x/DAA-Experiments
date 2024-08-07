@@ -15,6 +15,7 @@ int binarySearch(int arr[], int low, int high, int target) {
 }
 
 int main() {
+    printf("Preet AJU/220501 \n");
     int n;
     printf("Enter the size of the array: ");
     scanf("%d", &n);
