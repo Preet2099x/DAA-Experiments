@@ -9,6 +9,7 @@ int factorial(int n)
 
 int main()
 {
+    printf("Preet AJU/220501 \n");
     int n;
     printf("Enter number: ");
     scanf("%d",&n);
@@ -17,5 +18,5 @@ int main()
     printf("The Factorail of %d: %d",n,ans);
 
     return 0;
-}
+}}
     
