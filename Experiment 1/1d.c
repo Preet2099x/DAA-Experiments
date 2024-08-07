@@ -1,6 +1,7 @@
 #include<stdio.h>
 int main()
 {
+    printf("Preet AJU/220501 \n");
     int a[10] = {1,2,3,4,5,6,7,8,9,10};
     int value,pos;
     printf("Enter element to be inserted: ");
