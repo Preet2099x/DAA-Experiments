@@ -7,6 +7,7 @@ int fib (int n) {
 }
 
 int main() {
+    printf("Preet AJU/220501 \n");
     int n;
     printf("Enter number of terms: ");
     scanf("%d", &n);
@@ -18,4 +19,3 @@ int main() {
     }
     printf("\n");
     return 0;
-}
