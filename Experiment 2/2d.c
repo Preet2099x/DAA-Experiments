@@ -7,6 +7,7 @@ int summation(int n) {
 }
 
 int main() {
+    printf("Preet AJU/220501 \n");
     int n;
     printf("Enter the number: ");
     scanf("%d", &n);
