@@ -5,6 +5,7 @@ void addNumbers (int*a, int*b, int*result)
 }
 int main()
 {
+    printf("Preet AJU/220501 \n");
     int num1,num2,sum;
 
     printf("Ente the first number: ");
